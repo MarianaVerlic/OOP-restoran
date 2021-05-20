@@ -1,0 +1,6 @@
+Pohovani_sir Predjelo 180.0
+Teleci_medaljoni Glavno_jelo 600.0
+Sopska_salata Salata 150.0
+Krempita Dezert 200.0
+Vino Pice 250.0
+Cezar_salata salata 280.0

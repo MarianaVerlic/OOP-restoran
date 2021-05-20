@@ -1,0 +1,2 @@
+Krempita 4 Klijent [ime=Neda, prezime=Divjakovic, adresa=Bul.Oslobodjenja_33, mobilniTelefon=0654356667] true
+Teleci_medaljoni 2 Klijent [ime=Aleksandra, prezime=Misan, adresa=Mise_Dimitrijevica_52, mobilniTelefon=063555333] true
